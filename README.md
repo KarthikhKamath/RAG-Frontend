@@ -1,6 +1,6 @@
 # Chat Interface with AI Integration
 
-A simple, responsive React application that provides users with an AI-powered chat experience. This application manages user sessions, stores chat history, and facilitates seamless communication with an AI backend.
+A simple, responsive React application that provides users with an AI-powered chat experience. This application manages user sessions, stores chat history, and communicates with an AI backend.
 
 ### Features
 
