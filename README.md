@@ -1,6 +1,6 @@
 # Chat Interface with AI Integration
 
-## Live URL : https://kart-rag-chat-bot.netlify.app
+Live URL : https://kart-rag-chat-bot.netlify.app
 <img width="673" alt="Screenshot 2025-05-11 at 12 25 33 PM" src="https://github.com/user-attachments/assets/0fecaa70-7df2-4b02-af46-675f39e78270" />
 
 
